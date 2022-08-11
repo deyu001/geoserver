@@ -120,6 +120,7 @@
     <property name="icon" value="../img/icons/silk/vcard.png" />
     <property name="order" value="20" />
   </bean>
+  <!--
   <bean id="aboutMenuPage" class="org.geoserver.web.MenuPageInfo">
     <property name="id" value="server.about" />
     <property name="titleKey" value="AboutGeoServerPage.title" />
@@ -129,6 +130,7 @@
     <property name="icon" value="img/icons/silk/help.png" />
     <property name="order" value="25" />
   </bean>
+  -->
   <bean id="globalSettingsMenuPage" class="org.geoserver.web.MenuPageInfo">
     <property name="id" value="server.admin.global" />
     <property name="titleKey" value="global.title" />

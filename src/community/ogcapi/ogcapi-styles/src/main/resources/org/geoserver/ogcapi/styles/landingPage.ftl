@@ -28,7 +28,7 @@
     <div class="col-6 col-xl-3">
       <div class="card h-100">
         <div class="card-body">
-          <h2>Styles</h2>
+          <h2>Styles-awen</h2>
           <p>The <a id="htmlStylesLink" href="${model.getLinkUrl('styles', 'text/html')!}"> styles page</a> provides a list of all the styles available in this service. 
           <br/> 
           This styles page is also available as

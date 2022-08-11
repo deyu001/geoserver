@@ -14,7 +14,7 @@
     <ows:AccessConstraints>NONE</ows:AccessConstraints>
   </ows:ServiceIdentification>
   <ows:ServiceProvider>
-    <ows:ProviderName>The Ancient Geographers</ows:ProviderName>
+    <ows:ProviderName>航天云网西南物联网中心</ows:ProviderName>
     <ows:ServiceContact>
       <ows:IndividualName>Claudius Ptolomaeus</ows:IndividualName>
       <ows:PositionName>Chief Geographer</ows:PositionName>
